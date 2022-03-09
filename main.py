@@ -1,1 +1,1 @@
-print ("Вариант Ученика")
+print ("variant uchenika")
